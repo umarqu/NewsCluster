@@ -1,0 +1,86 @@
+Last login: Mon Mar 20 18:08:27 on ttys000
+manlike:~ UmarQ$ cd Projects/NewsCluster/
+manlike:NewsCluster UmarQ$ python news.py
+Enter Reddit Password  :
+After Esemble
+Cluster 0 has 174 samples
+('Top words in Clusters ', 0)
+  1) syria (score: 0.2863)
+  2) isis (score: 0.2615)
+  3) forces (score: 0.2056)
+  4) al (score: 0.2023)
+  5) mosul (score: 0.1980)
+  6) city (score: 0.1323)
+Cluster 1 has 16 samples
+('Top words in Clusters ', 1)
+  1) her (score: 0.4289)
+  2) she (score: 0.4289)
+  3) women (score: 0.1678)
+  4) home (score: 0.0855)
+  5) children (score: 0.0753)
+  6) old (score: 0.0678)
+Cluster 2 has 19 samples
+('Top words in Clusters ', 2)
+  1) israel (score: 0.7942)
+  2) mar (score: 0.1738)
+  3) times (score: 0.0820)
+  4) foreign (score: 0.0713)
+  5) syria (score: 0.0635)
+  6) report (score: 0.0631)
+Cluster 3 has 38 samples
+('Top words in Clusters ', 3)
+  1) cia (score: 0.6629)
+  2) security (score: 0.1353)
+  3) thursday (score: 0.1253)
+  4) china (score: 0.0932)
+  5) police (score: 0.0789)
+  6) mosul (score: 0.0783)
+Cluster 4 has 30 samples
+('Top words in Clusters ', 4)
+  1) email (score: 0.0801)
+  2) police (score: 0.0701)
+  3) 10 (score: 0.0680)
+  4) found (score: 0.0614)
+  5) read (score: 0.0598)
+  6) 000 (score: 0.0598)
+Cluster 5 has 46 samples
+('Top words in Clusters ', 5)
+  1) site (score: 0.4820)
+  2) click (score: 0.4705)
+  3) uk (score: 0.2605)
+  4) during (score: 0.1164)
+  5) mr (score: 0.1096)
+  6) read (score: 0.0964)
+Cluster 6 has 20 samples
+('Top words in Clusters ', 6)
+  1) mar (score: 0.6935)
+  2) 09 (score: 0.1304)
+  3) 10 (score: 0.1086)
+  4) children (score: 0.0960)
+  5) travel (score: 0.0797)
+  6) killed (score: 0.0713)
+Cluster 7 has 54 samples
+('Top words in Clusters ', 7)
+  1) bbc (score: 0.6011)
+  2) travel (score: 0.2267)
+  3) local (score: 0.1670)
+  4) make (score: 0.1372)
+  5) share (score: 0.1332)
+  6) mr (score: 0.1259)
+Cluster 8 has 36 samples
+('Top words in Clusters ', 8)
+  1) russia (score: 0.3797)
+  2) russian (score: 0.3326)
+  3) eu (score: 0.1759)
+  4) foreign (score: 0.0835)
+  5) house (score: 0.0728)
+  6) 2016 (score: 0.0724)
+Cluster 9 has 41 samples
+('Top words in Clusters ', 9)
+  1) china (score: 0.4884)
+  2) korea (score: 0.2963)
+  3) south (score: 0.1746)
+  4) north (score: 0.1742)
+  5) military (score: 0.0605)
+  6) united (score: 0.0545)
+manlike:NewsCluster UmarQ$ 
